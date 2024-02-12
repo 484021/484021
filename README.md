@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santhosh Bhoopal
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning cs50 and plan on specializing in full stack development
+- 👀 I’m interested in Full stack projects
+- 🌱 I’m currently learning React and Typescript.
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me @prodoit on discord
 
