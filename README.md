@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santhosh Bhoopal
-- 👀 I’m interested in Full stack projects
-- 🌱 I’m currently learning React and Typescript.
+- 👀 I’m interested in Full Stack projects
+- 🌱 I’m currently learning Next.sj, React and Typescript.
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me @prodoit on discord
 
