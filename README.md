@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [Nestio](https://github.com/484021/nestio)
 
-- 🌱 I’m currently learning **In-depth Web development**
+- 🌱 I’m currently learning **In-depth Full-Stack Development and Cloud solutions**
 
-- 👯 I’m looking to collaborate on [Petly](https://github.com/484021/petly)
+- 👯 I’m looking to collaborate on [My Blog](https://prodoit.dev)
 
 - 👨‍💻 All of my projects are available at [https://santhoshbhoopal.com](https://santhoshbhoopal.com)
 
 - 💬 Ask me about **Next.js React,JavaScript, TypeScript**
 
-- 📫 How to reach me **Bhoopalsanthosh@gmail.com**
+- 📫 How to reach me **bhoopalsanthosh@gmail.com**
 
 - ⚡ Fun fact **I love badminton**
 
