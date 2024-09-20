@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Nestio](https://github.com/484021/nestio)
 
-- 🌱 I’m currently learning **In-depth Full-Stack Development and Cloud solutions**
+- 🌱 I’m currently learning **OOP, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on [My Blog](https://prodoit.dev)
 
