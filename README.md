@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">I'm a fullstack Next.js developer</h3>
+<h3 align="center">I'm a Full Stack Next.js Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=484021&label=Profile%20views&color=0e75b6&style=flat" alt="484021" /> </p>
 
