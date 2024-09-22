@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [My Blog](https://prodoit.dev)
 
-- 👨‍💻 All of my projects are available at [https://santhoshbhoopal.com](https://santhoshbhoopal.com)
+- 👨‍💻 All of my projects are available at [https://santhoshbhoopal.com](https://prodoit.dev/blog)
 
 - 💬 Ask me about **Next.js React,JavaScript, TypeScript**
 
